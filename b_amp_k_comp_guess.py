@@ -10,23 +10,21 @@ def bk(number_2_guess, guess_try):
                 k += 1
     return((b,k))
 
-def combinations():
-    answer = []
-    for i in range(123, 9877):
-        if len(str(i)) == 3:
-            a = ['0']
-        else:
-            a = []
-        for j in str(i):
-            a.append(j)
-        if len(a) == len(set(a)):
-            answer.append(tuple(a))
-    return(answer)
+combinations = [] #все допустимые последовательности
+for i in range(123, 9877):
+    if i < 1000:
+        a = ['0']
+    else:
+        a = []
+    for j in str(i):
+        a.append(j)
+    if len(a) == len(set(a)):
+            combinations.append(tuple(a))
         
 def comp_guess():
     turn = 0
     print('Загадайте число из четырёх разных цифр')
-    answer = combinations()
+    answer = combinations
     while True:
         turn += 1
         new_answer = []
@@ -49,6 +47,4 @@ def comp_guess():
             turn = 0
             break
     return(turn)
-
-print(comp_guess())
     
