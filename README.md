@@ -18,3 +18,20 @@
 2. Полина пишет подпрограмму computer_guesses до 15 апреля
 3. Костя прописывает архитектуру ввода, вывода и поддержки игрового процесса до 25 апреля
 4. Bug fixing & testing -- до 30 апреля
+
+
+| First half                              | Date         | Second half                                 | Date         |
+|-----------------------------------------|--------------|---------------------------------------------|--------------|
+| Introduction                            | Di 2024-04-22| XML                                         | Di 2024-06-11|
+| Bits and Encodings                      | Fr 2024-04-26| XPath                                       | Fr 2024-06-14|
+| Historical Encodings                    | Di 2024-04-30| XML Schema                                  | Di 2024-06-18|
+| Unicode                                 | Fr 2024-05-03| JSON+YAML                                   | Fr 2024-06-21|
+| Corpus Linguistics                      | Di 2024-05-07| HTML                                        | Di 2024-06-25|
+| Copyright and Licenses                  | Fr 2024-05-10| CSS                                         | Fr 2024-06-28|
+| Introduction to the Command Line        | Di 2024-05-14| Frontend Libraries                          | Di 2024-07-02|
+| Unix Tools                              | Fr 2024-05-17| Text-Based File Formats for Linguistics      | Fr 2024-07-05|
+| Unix Tools for Aggregation and Reshaping| Di 2024-05-28| Markdown                                    | Di 2024-07-09|
+| Unix Tools for Editing and Manipulation | Fr 2024-05-31| LaTeX Basics                                | Fr 2024-07-12|
+| NLP Tools on the Command Line           | Di 2024-06-04| Upcoming                                    | Di 2024-07-16|
+| Challenges of Using NLP Tools           | Fr 2024-06-07| Upcoming                                    | Fr 2024-07-19|
+
