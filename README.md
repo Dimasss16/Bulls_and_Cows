@@ -35,3 +35,26 @@
 | NLP Tools on the Command Line           | Di 2024-06-04| Upcoming                                    | Di 2024-07-16|
 | Challenges of Using NLP Tools           | Fr 2024-06-07| Upcoming                                    | Fr 2024-07-19|
 
+
+# The Advantages of Markdown
+
+Markdown is a lightweight markup language with plain-text formatting syntax. 
+It was created by [John Gruber](https://daringfireball.net/projects/markdown/) 
+in 2004 and this is how he introduces it:
+> Markdown is a text-to-HTML conversion tool for web writers. 
+> Markdown allows you to write using an easy-to-read, easy-to-write plain text 
+> format, then convert it to structurally valid XHTML (or HTML).
+
+## Usage
+
+Markdown allows you to make text
+1. with different attributes
+    - **bold**
+    - *italics*
+2. look like code: `let x = 4;`
+
+---
+
+You can also include images
+
+![Markdown Logo](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
